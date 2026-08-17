@@ -1,7 +1,9 @@
 Spriterizer 7D0 es un archivo de Blender (v4.3.2) donde renderiza modelos 3D o imágenes 2D y las convierte a ASM/BIN (u otros) para que se carguen en cualquiera de las 18 siguientes plataformas:
 Amiga, Macintosh 128/512K, Intellivision, NES, ZX Spectrum, Amstrad CPC, PC compatible (CGA), Commodore 64, MSX, BBC Micro, Game Boy, Master System, Oric, Mega Drive, Apple II, Amstrad PCW, Atari ST, VIC-20.
+
 Una muestra de lo que puede hacer Spriterizer 7D0 se encuentra en esta charla de CanariasGoRetro:
 https://www.youtube.com/watch?v=uKpu92lfj7c
+
 Si quieres probarlo, te paso unos consejos básicos, ya que está todo un poco patas arriba:
 
 1.- Por ahora, lo mejor es ejecutar el código directamente dándole al botón del Play que hay a la derecha del nombre del código (puedes cambiar entre los distintos códigos para cambiar de plataforma). ¡OJO! Muchos de los códigos tienen rutas a carpetas que se deberían cambiar por rutas de tu preferencia.
